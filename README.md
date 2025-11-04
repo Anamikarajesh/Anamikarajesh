@@ -28,4 +28,4 @@ I love building end-to-end ML workflows and am especially passionate about **Dee
 ### 📫 How to Reach Me
 
 * **Email:** `anamikarajeshkollara@gmail.com`
-* **LinkedIn:** [Your LinkedIn URL Here]
+* **LinkedIn:**[https://www.linkedin.com/in/anamika-rajesh-37327b306/](https://www.linkedin.com/in/anamika-rajesh-37327b306/)
