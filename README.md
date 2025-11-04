@@ -23,14 +23,56 @@ Let’s connect and create something awesome together!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-### My Favorite Tech
+### 🛠️ My Favorite Tech
 
-* **Programming:** **Python**, C/C++, Shell Scripting
-* **ML Frameworks:** **PyTorch**, TensorFlow, Scikit-Learn
-* **NLP/Speech:** **Transformers** (FAIRSEQ, RoBERTa, DistilBERT, ViT), OpenAI Whisper
-* **Data Tools:** Pandas, NumPy, Librosa, Matplotlib, Seaborn
-* **Tools & Platforms:** Git, Linux, AWS, Streamlit
+<table>
+  <tr>
+    <td width="150px"><strong>Programming</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="30" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="30" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" height="30" alt="C" />
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="30" alt="Shell Script" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML Frameworks</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="30" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="30" alt="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="30" alt="Scikit-Learn" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>NLP/Speech</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=huggingface&theme=dark" height="30" alt="Transformers" />
+      <img src="https://skillicons.dev/icons?i=openai&theme=dark" height="30" alt="OpenAI" />
+      FAIRSEQ, RoBERTa, DistilBERT, ViT
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pandas&theme=dark" height="30" alt="Pandas" />
+      <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="30" alt="NumPy" />
+      <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" height="30" alt="Matplotlib" />
+      <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" height="30" alt="Seaborn" />
+      Librosa
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" height="30" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="30" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=streamlit&theme=dark" height="30" alt="Streamlit" />
+    </td>
+  </tr>
+</table>
 
+---
 ### Happy to Discuss
 
 * End-to-End Speech Translation
