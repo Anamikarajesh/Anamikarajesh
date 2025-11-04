@@ -63,13 +63,15 @@ Let’s connect and create something awesome together!
   <tr>
     <td><strong>Tools & Platforms</strong></td>
     <td align="left">
-      <img src="httpshttps://skillicons.dev/icons?i=git&theme=dark" height="30" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" height="30" alt="Git" />
       <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="30" alt="Linux" />
       <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="AWS" />
       <img src="https://skillicons.dev/icons?i=streamlit&theme=dark" height="30" alt="Streamlit" />
     </td>
   </tr>
 </table>
+
+---
   
 ### Happy to Discuss
 
