@@ -1,13 +1,12 @@
 ### Hi there, Welcome to My GitHub Profile! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
-</p>
-
 I'm Anamika, a passionate third-year B.Tech. student at IIT Bhilai, studying Data Science and Artificial Intelligence.
 I use this space to showcase the projects I’m working on and share my journey as an **Aspiring ML Engineer**
 
 Let’s connect and create something awesome together!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
+</p>
 
 ### About Me
 
