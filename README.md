@@ -1,7 +1,7 @@
 ### Hi there, I'm Anamika! 👋
 
 <p align="center">
-  <img src="[PASTE_YOUR_NEW_GIF_URL_HERE](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw1-LOeud2xUtBFWySK0_8To&ust=1762359466078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDl5ODy2JADFQAAAAAdAAAAABAU)" width="300" />
+  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
 </p>
 
 I'm an **Aspiring ML Engineer** and a B.Tech. student in Data Science and A.I. at IIT Bhilai.
