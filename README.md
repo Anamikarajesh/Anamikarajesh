@@ -44,7 +44,7 @@ Let’s connect and create something awesome together!
   </tr>
   <tr>
     <td><strong>NLP/Speech</strong></td>
-    <td align="left">
+    <td align="right">
       <img src="https://skillicons.dev/icons?i=huggingface&theme=dark" height="30" alt="Transformers" />
       <img src="https://skillicons.dev/icons?i=openai&theme=dark" height="30" alt="OpenAI" />
       <img src="https://github.com/facebookresearch/fairseq/blob/main/docs/fairseq_logo.png?raw=true" height="30" alt="FAIRSEQ" />
@@ -53,12 +53,12 @@ Let’s connect and create something awesome together!
   </tr>
   <tr>
     <td><strong>Data Tools</strong></td>
-    <td align="left">
+    <td align="right">
       <img src="https://skillicons.dev/icons?i=pandas&theme=dark" height="30" alt="Pandas" />
       <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="30" alt="NumPy" />
       <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" height="30" alt="Matplotlib" />
       <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" height="30" alt="Seaborn" />
-      <img src="https://librosa.org/doc/latest/_static/logo.png" height="30" alt="Librosa" />
+      <img src="https://github.com/librosa/librosa/raw/main/docs/img/librosa_logo_text.svg" height="30" alt="Librosa" />
     </td>
   </tr>
   <tr>
