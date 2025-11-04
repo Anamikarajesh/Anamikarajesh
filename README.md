@@ -47,7 +47,8 @@ Let’s connect and create something awesome together!
     <td align="left">
       <img src="https://skillicons.dev/icons?i=huggingface&theme=dark" height="30" alt="Transformers" />
       <img src="https://skillicons.dev/icons?i=openai&theme=dark" height="30" alt="OpenAI" />
-      FAIRSEQ, RoBERTa, DistilBERT, ViT
+      <img src="https://github.com/facebookresearch/fairseq/blob/main/docs/fairseq_logo.png?raw=true" height="30" alt="FAIRSEQ" />
+      RoBERTa, DistilBERT, ViT
     </td>
   </tr>
   <tr>
@@ -57,7 +58,7 @@ Let’s connect and create something awesome together!
       <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="30" alt="NumPy" />
       <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" height="30" alt="Matplotlib" />
       <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" height="30" alt="Seaborn" />
-      Librosa
+      <img src="https://librosa.org/doc/latest/_static/logo.png" height="30" alt="Librosa" />
     </td>
   </tr>
   <tr>
