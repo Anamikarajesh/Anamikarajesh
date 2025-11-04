@@ -44,16 +44,18 @@ Let’s connect and create something awesome together!
   </tr>
   <tr>
     <td><strong>NLP/Speech</strong></td>
-    <td align="right">
+    <td align="left">
       <img src="https://skillicons.dev/icons?i=huggingface&theme=dark" height="30" alt="Transformers" />
       <img src="https://skillicons.dev/icons?i=openai&theme=dark" height="30" alt="OpenAI" />
       <img src="https://github.com/facebookresearch/fairseq/blob/main/docs/fairseq_logo.png?raw=true" height="30" alt="FAIRSEQ" />
-      RoBERTa, DistilBERT, ViT
+      <img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="RoBERTa" />
+      <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="DistilBERT" />
+      <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="ViT" />
     </td>
   </tr>
   <tr>
     <td><strong>Data Tools</strong></td>
-    <td align="right">
+    <td align="left">
       <img src="https://skillicons.dev/icons?i=pandas&theme=dark" height="30" alt="Pandas" />
       <img src="https://skillicons.dev/icons?i=numpy&theme=dark" height="30" alt="NumPy" />
       <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" height="30" alt="Matplotlib" />
@@ -71,7 +73,6 @@ Let’s connect and create something awesome together!
     </td>
   </tr>
 </table>
-
 ---
   
 ### Happy to Discuss
