@@ -1,12 +1,17 @@
-### Hi there, I'm Anamika! 👋
+### Hi there, Welcome to My GitHub Profile! 👋
+I'm Anamika, a passionate third-year B.Tech. student at IIT Bhilai, studying Data Science and Artificial Intelligence.
+I use this space to showcase the projects I’m working on and share my journey as an **Aspiring ML Engineer**
 
+🌱 Let’s connect and create something awesome together!
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
 </p>
 
-I'm an **Aspiring ML Engineer** and a B.Tech. student in Data Science and A.I. at IIT Bhilai.
+### 🚀 About Me
 
-I love building end-to-end ML workflows and am especially passionate about **Deep Learning, Transformers, and NLP**. My goal is to tackle challenging problems in speech translation and multimodal learning.
+* I love working on projects that challenge me and help me grow, especially with **Deep Learning, Transformers, and NLP**.
+* I enjoy building complete, **end-to-end ML workflows**.
+* To unwind, I love to practice classical dance, listen to music, and get lost in a good book.*
 
 ---
 
