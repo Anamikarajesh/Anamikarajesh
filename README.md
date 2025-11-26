@@ -1,5 +1,11 @@
 ### Hi there, Welcome to My GitHub Profile! 👋
 
+<p align="right">
+  <img src="https://profile-counter.glitch.me/Anamikarajesh/count.svg" alt="Visitor Count" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="100" alt="Pixel Cat" />
+</p>
+
 I'm Anamika, a passionate third-year B.Tech. student at IIT Bhilai, studying Data Science and Artificial Intelligence.
 I use this space to showcase the projects I’m working on and share my journey as an **Aspiring ML Engineer**
 
@@ -86,3 +92,8 @@ My Favorite Tech
 
 * **Email:** `anamikarajeshkollara@gmail.com`
 * **LinkedIn:**[https://www.linkedin.com/in/anamika-rajesh-37327b306/](https://www.linkedin.com/in/anamika-rajesh-37327b306/)
+---
+
+<p align="center">
+  <i>⭐️ Feel free to star my repositories if you find them interesting!</i>
+</p>
