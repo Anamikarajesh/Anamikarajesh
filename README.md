@@ -1,8 +1,5 @@
 ### Hi there, Welcome to My GitHub Profile! 👋
 
-<img align="left" src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="50" alt="Pixel Cat" />
-<img align="left" src="https://komarev.com/ghpvc/?username=Anamikarajesh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-
 I'm Anamika, a passionate third-year B.Tech. student at IIT Bhilai, studying Data Science and Artificial Intelligence. I use this space to showcase the projects I'm working on and share my journey as an **Aspiring ML Engineer**
 
 Let's connect and create something awesome together!
@@ -25,6 +22,11 @@ Let's connect and create something awesome together!
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=tokyonight&count_private=true" alt="Anamika's GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="50" alt="Pixel Cat" />
+    <img src="https://komarev.com/ghpvc/?username=Anamikarajesh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
 
 ### My Favorite Tech
 
