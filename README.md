@@ -98,7 +98,7 @@ Let's connect and create something awesome together!
 ### How to Reach Me
 
 * **Email:** `anamikarajeshkollara@gmail.com`
-* **LinkedIn:** (https://www.linkedin.com/in/anamika-rajesh-37327b306/)
+* **LinkedIn:**[https://www.linkedin.com/in/anamika-rajesh-37327b306/]
 
 ---
 
