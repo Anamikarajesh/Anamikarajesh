@@ -29,7 +29,7 @@ Let's connect and create something awesome together!
         <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" 
             width="60" 
             alt="Pixel Cat" 
-            style="position: absolute; **top: -20px; right: -15px;**" />
+            style="position: absolute; **top: 0px; right: -5px;**" />
     </div>
 </div>
 
