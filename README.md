@@ -5,7 +5,7 @@ I'm Anamika, a passionate third-year B.Tech. student at IIT Bhilai, studying Dat
 Let's connect and create something awesome together!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/cat.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/cat.gif" width="500" />
 </p>
 
 ### About Me
