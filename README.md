@@ -18,12 +18,12 @@ Let's connect and create something awesome together!
 
 ### GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=tokyonight&count_private=true" alt="Anamika's GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<div align="left>
+<div align="center">
     <div style="position: relative; display: inline-block;">
         <img src="https://komarev.com/ghpvc/?username=Anamikarajesh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
         <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="50" alt="Pixel Cat" style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%);" />
