@@ -5,7 +5,7 @@ I use this space to showcase the projects I’m working on and share my journey 
 
 Let’s connect and create something awesome together!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
 </p>
 
 ### About Me
@@ -19,65 +19,65 @@ Let’s connect and create something awesome together!
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=github_dark" alt="Anamika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=vision-friendly-dark" alt="Anamika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 ### My Favorite Tech
 
 <table>
-  <tr>
-    <td width="200px"><strong>Programming</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
-      <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
-      <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Shell Script" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>ML Frameworks</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
-      <img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="Scikit-Learn" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>NLP/Speech</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=huggingface" height="30" alt="Transformers" />
-      <img src="https://skillicons.dev/icons?i=openai" height="30" alt="OpenAI" />
-      <img src="https://github.com/facebookresearch/fairseq/blob/main/docs/fairseq_logo.png?raw=true" height="30" alt="FAIRSEQ" />
-      <img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="RoBERTa" />
-      <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="DistilBERT" />
-      <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="ViT" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data Tools</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="Pandas" />
-      <img src="https://skillicons.dev/icons?i=numpy" height="30" alt="NumPy" />
-      <img src="https://skillicons.dev/icons?i=matplotlib" height="30" alt="Matplotlib" />
-      <img src="https://skillicons.dev/icons?i=seaborn" height="30" alt="Seaborn" />
-      <img src="https://github.com/librosa/librosa/raw/main/docs/img/librosa_logo_text.svg" height="30" alt="Librosa" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
-      <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" />
-      <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-      <img src="https://skillicons.dev/icons?i=streamlit" height="30" alt="Streamlit" />
-    </td>
-  </tr>
+  <tr>
+    <td width="200px"><strong>Programming</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
+      <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Shell Script" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML Frameworks</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="Scikit-Learn" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>NLP/Speech</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=huggingface" height="30" alt="Transformers" />
+      <img src="https://skillicons.dev/icons?i=openai" height="30" alt="OpenAI" />
+      <img src="https://github.com/facebookresearch/fairseq/blob/main/docs/fairseq_logo.png?raw=true" height="30" alt="FAIRSEQ" />
+      <img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="RoBERTa" />
+      <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="DistilBERT" />
+      <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="ViT" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Tools</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="Pandas" />
+      <img src="https://skillicons.dev/icons?i=numpy" height="30" alt="NumPy" />
+      <img src="https://skillicons.dev/icons?i=matplotlib" height="30" alt="Matplotlib" />
+      <img src="https://skillicons.dev/icons?i=seaborn" height="30" alt="Seaborn" />
+      <img src="https://github.com/librosa/librosa/raw/main/docs/img/librosa_logo_text.svg" height="30" alt="Librosa" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=streamlit" height="30" alt="Streamlit" />
+    </td>
+  </tr>
 </table>
 
 
 ---
-  
+  
 ### Happy to Discuss
 
 * End-to-End Speech Translation
@@ -89,3 +89,7 @@ Let’s connect and create something awesome together!
 
 * **Email:** `anamikarajeshkollara@gmail.com`
 * **LinkedIn:**[https://www.linkedin.com/in/anamika-rajesh-37327b306/](https://www.linkedin.com/in/anamika-rajesh-37327b306/)
+
+<p align="center">
+  <img src="https://hits.seeyounexttime.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnamikarajesh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
+</p>
