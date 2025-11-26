@@ -19,7 +19,7 @@ Let’s connect and create something awesome together!
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=github_dark" alt="Anamika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=github_dark&count_private=true" alt="Anamika's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
