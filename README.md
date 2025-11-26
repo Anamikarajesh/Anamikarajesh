@@ -1,35 +1,35 @@
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="50" alt="Pixel Cat" />
+  <img src="https://komarev.com/ghpvc/?username=Anamikarajesh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
+
 ### Hi there, Welcome to My GitHub Profile! 👋
 
-<p align="right">
-  <img src="https://profile-counter.glitch.me/Anamikarajesh/count.svg" alt="Visitor Count" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="100" alt="Pixel Cat" />
-</p>
+I'm Anamika, a passionate third-year B.Tech. student at IIT Bhilai, studying Data Science and Artificial Intelligence. I use this space to showcase the projects I'm working on and share my journey as an **Aspiring ML Engineer**
 
-I'm Anamika, a passionate third-year B.Tech. student at IIT Bhilai, studying Data Science and Artificial Intelligence.
-I use this space to showcase the projects I’m working on and share my journey as an **Aspiring ML Engineer**
+Let's connect and create something awesome together!
 
-Let’s connect and create something awesome together!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
 </p>
 
 ### About Me
 
 * I love working on projects that challenge me and help me grow, especially with **Deep Learning, Transformers, and NLP**.
 * I enjoy building complete, **end-to-end ML workflows**.
-* To unwind, I love to practice classical dance, listen to music, and get lost in a good book.*
+* To unwind, I love to practice classical dance, listen to music, and get lost in a good book.
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=tokyonight&count_private=true" alt="Anamika's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=tokyonight&count_private=true" alt="Anamika's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-My Favorite Tech
+### My Favorite Tech
+
 <table>
   <tr>
     <td width="200px"><strong>Programming</strong></td>
@@ -80,7 +80,7 @@ My Favorite Tech
 </table>
 
 ---
-  
+  
 ### Happy to Discuss
 
 * End-to-End Speech Translation
@@ -91,7 +91,8 @@ My Favorite Tech
 ### How to Reach Me
 
 * **Email:** `anamikarajeshkollara@gmail.com`
-* **LinkedIn:**[https://www.linkedin.com/in/anamika-rajesh-37327b306/](https://www.linkedin.com/in/anamika-rajesh-37327b306/)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anamika-rajesh-37327b306/)
+
 ---
 
 <p align="center">
