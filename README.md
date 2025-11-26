@@ -53,7 +53,6 @@ Let's connect and create something awesome together!
     <td><strong>NLP/Speech</strong></td>
     <td align="left">
       <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square" height="30" alt="Transformers" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="30" alt="OpenAI" />
       <img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="RoBERTa" />
       <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="DistilBERT" />
       <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="ViT" />
@@ -93,6 +92,7 @@ Let's connect and create something awesome together!
 
 * **Email:** `anamikarajeshkollara@gmail.com`
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anamika-rajesh-37327b306/)
+* **Portfoli:** [purr purr](https://anamikarajesh.github.io/portfolio/)
 
 ---
 
