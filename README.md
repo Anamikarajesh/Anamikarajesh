@@ -20,7 +20,7 @@ Let’s connect and create something awesome together!
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=tokyonight&count_private=true" alt="Anamika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 My Favorite Tech
