@@ -30,6 +30,8 @@ Let's connect and create something awesome together!
     </div>
 </div>
 
+---
+
 ### My Favorite Tech
 <table>
   <tr>
