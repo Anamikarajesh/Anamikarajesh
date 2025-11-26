@@ -18,12 +18,12 @@ Let's connect and create something awesome together!
 
 ### GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anamikarajesh&show_icons=true&theme=tokyonight&count_private=true" alt="Anamika's GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anamikarajesh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<div align="center">
+<div align="left>
     <div style="position: relative; display: inline-block;">
         <img src="https://komarev.com/ghpvc/?username=Anamikarajesh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
         <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="50" alt="Pixel Cat" style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%);" />
@@ -31,54 +31,53 @@ Let's connect and create something awesome together!
 </div>
 
 ### My Favorite Tech
-
 <table>
-  <tr>
-    <td width="200px"><strong>Programming</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
-      <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
-      <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Shell Script" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>ML Frameworks</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
-      <img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="Scikit-Learn" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>NLP/Speech</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square" height="30" alt="Transformers" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="30" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="RoBERTa" />
-      <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="DistilBERT" />
-      <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="ViT" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data Tools</strong></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" height="30" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" height="30" alt="Seaborn" />
-      <img src="https://img.shields.io/badge/Librosa-6A0DAD?style=flat-square" height="30" alt="Librosa" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
-      <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" />
-      <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="30" alt="Streamlit" />
-    </td>
-  </tr>
+  <tr>
+    <td width="200px"><strong>Programming</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" />
+      <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Shell Script" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML Frameworks</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=sklearn" height="30" alt="Scikit-Learn" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>NLP/Speech</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square" height="30" alt="Transformers" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="30" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="RoBERTa" />
+      <img src="https://img.shields.io/badge/DistilBERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="DistilBERT" />
+      <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="30" alt="ViT" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Tools</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" height="30" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" height="30" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Librosa-6A0DAD?style=flat-square" height="30" alt="Librosa" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="30" alt="Streamlit" />
+    </td>
+  </tr>
 </table>
 
 ---
