@@ -24,9 +24,12 @@ Let's connect and create something awesome together!
 </p>
 
 <div align="center">
-    <div style="position: relative; display: inline-block;">
+    <div style="position: relative; display: inline-block; margin-top: 40px;">
         <img src="https://komarev.com/ghpvc/?username=Anamikarajesh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-        <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="50" alt="Pixel Cat" style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%);" />
+        <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" 
+             width="70" 
+             alt="Pixel Cat" 
+             style="position: absolute; top: -55px; left: 50%; transform: translateX(-50%);" />
     </div>
 </div>
 
