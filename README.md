@@ -79,7 +79,6 @@ Let's connect and create something awesome together!
     </td>
   </tr>
 </table>
-
 ---
   
 ### Happy to Discuss
