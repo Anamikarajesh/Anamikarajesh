@@ -1,13 +1,20 @@
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/catf.gif" width="50" alt="Pixel Cat" />
-  <img src="https://komarev.com/ghpvc/?username=Anamikarajesh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
 
 ### Hi there, Welcome to My GitHub Profile! 👋
 
 I'm Anamika, a passionate third-year B.Tech. student at IIT Bhilai, studying Data Science and Artificial Intelligence. I use this space to showcase the projects I'm working on and share my journey as an **Aspiring ML Engineer**
 
 Let's connect and create something awesome together!
+
+</td>
+<td width="30%" align="right" valign="top">
+<img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/pixel-cat.gif" width="50" alt="Pixel Cat" /><br/>
+<img src="https://komarev.com/ghpvc/?username=Anamikarajesh&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anamikarajesh/Anamikarajesh/main/ghostedvpn-hacker-cat.gif" width="300" />
@@ -91,7 +98,7 @@ Let's connect and create something awesome together!
 ### How to Reach Me
 
 * **Email:** `anamikarajeshkollara@gmail.com`
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anamika-rajesh-37327b306/)
+* **LinkedIn:** (https://www.linkedin.com/in/anamika-rajesh-37327b306/)
 
 ---
 
