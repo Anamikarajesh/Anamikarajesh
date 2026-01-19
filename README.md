@@ -21,8 +21,6 @@ Let's connect and create something awesome together!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anamikarajesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anamikarajesh&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamikarajesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
